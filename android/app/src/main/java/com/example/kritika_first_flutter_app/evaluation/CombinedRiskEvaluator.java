@@ -1,5 +1,6 @@
 package com.example.kritika_first_flutter_app.evaluation;
-
+import com.example.kritika_first_flutter_app.correlation.BehaviorCorrelationAnalyzer;
+import com.example.kritika_first_flutter_app.correlation.CorrelationResult;
 import com.example.kritika_first_flutter_app.permissions.PermissionInfo;
 
 import java.util.List;
