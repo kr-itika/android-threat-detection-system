@@ -1,16 +1,25 @@
-# kritika_first_flutter_app
+# Android Threat Detection System
 
-A new Flutter project.
+AI-powered Android malware and anomaly detection framework.
 
-## Getting Started
+## Features
+- Installed app discovery
+- Hidden app detection
+- Permission analysis
+- Behavioral monitoring
+- Threat scoring
+- AI anomaly detection
 
-This project is a starting point for a Flutter application.
+## Tech Stack
+- Flutter
+- Java
+- Android SDK
+- PackageManager API
+- MethodChannel
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Current Progress
+✅ Module 1 — App Discovery Engine
+⬜ Permission Analysis
+⬜ Behavior Monitoring
+⬜ Threat Scoring
+⬜ AI Detection
